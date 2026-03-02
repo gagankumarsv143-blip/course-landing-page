@@ -32,6 +32,3 @@ Creating responsive layouts
 Improving front-end development skills
 
 Organizing project files professionally
-✅ Help you post it on LinkedIn
-
-Tell me what style you prefer 
